@@ -1,30 +1,365 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
-      "id": 1
+      "id": "1"
     },
     {
       "dogName": "Lola",
       "dogBreed": "Giant Schnauzer",
-      "id": 2
+      "id": "2"
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
-      "id": 1
+      "id": "1"
     },
     {
       "catName": "Gunnar",
       "catBreed": "American Shorthair",
-      "id": 2
+      "id": "2"
     }
   ],
-  "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "users": [
+    {
+      "id": "4ba2",
+      "name": "Luka",
+      "email": "luka@hotmail.com"
+    },
+    {
+      "id": "7acd",
+      "name": "Luka",
+      "email": "luka@hotmail.com"
+    },
+    {
+      "id": "60e6",
+      "name": "Luka",
+      "email": "luka@hotmail.com"
+    },
+    {
+      "id": "5db5",
+      "name": "Luka",
+      "email": "luka@hotmail.com"
+    },
+    {
+      "id": "c741",
+      "name": "Luka",
+      "email": "luka@hotmail.com"
+    },
+    {
+      "id": "d149",
+      "name": "Luka",
+      "email": "luka@hotmail.com"
+    },
+    {
+      "id": "d816",
+      "name": "Luka",
+      "email": "luka@hotmail.com"
+    },
+    {
+      "id": "324c",
+      "name": "Luka",
+      "email": "luka@hotmail.com"
+    },
+    {
+      "id": "67b1",
+      "name": "Luka",
+      "email": "luka@hotmail.com"
+    },
+    {
+      "id": "76fa",
+      "name": "Luka",
+      "email": "luka@hotmail.com"
+    },
+    {
+      "id": "314c",
+      "name": "Luka",
+      "email": "luka@hotmail.com"
+    },
+    {
+      "id": "a14d",
+      "name": "Luka",
+      "email": "luka@hotmail.com"
+    },
+    {
+      "id": "bbc4",
+      "name": "Luka",
+      "email": "luka@hotmail.com"
+    },
+    {
+      "id": "55f4",
+      "name": "Luka",
+      "email": "luka@hotmail.com"
+    },
+    {
+      "id": "9ef5",
+      "name": "Luka",
+      "email": "luka@hotmail.com"
+    },
+    {
+      "id": "f216",
+      "name": "Luka",
+      "email": "luka@hotmail.com"
+    },
+    {
+      "id": "6260",
+      "name": "Luka",
+      "email": "luka@hotmail.com"
+    },
+    {
+      "id": "9c14",
+      "name": "Luka",
+      "email": "luka@hotmail.com"
+    },
+    {
+      "id": "3710",
+      "name": "Luka",
+      "email": "luka@hotmail.com"
+    },
+    {
+      "id": "ee43",
+      "name": "Luka",
+      "email": "luka@hotmail.com"
+    },
+    {
+      "id": "9f22",
+      "name": "Luka",
+      "email": "luka@hotmail.com"
+    },
+    {
+      "id": "3000",
+      "name": "Luka",
+      "email": "luka@hotmail.com"
+    },
+    {
+      "id": "e5ce",
+      "name": "Luka",
+      "email": "luka@hotmail.com"
+    },
+    {
+      "id": "d4c9",
+      "name": "Luka",
+      "email": "luka@hotmail.com"
+    },
+    {
+      "id": "3c5d",
+      "name": "Luka",
+      "email": "luka@hotmail.com"
+    },
+    {
+      "id": "0b0c",
+      "name": "Luka",
+      "email": "luka@hotmail.com"
+    },
+    {
+      "id": "46d8",
+      "name": "Luka",
+      "email": "luka@hotmail.com"
+    },
+    {
+      "id": "daf2",
+      "name": "Luka",
+      "email": "luka@hotmail.com"
+    },
+    {
+      "id": "25e3",
+      "name": "Luka",
+      "email": "luka@hotmail.com"
+    },
+    {
+      "id": "484e",
+      "name": "Luka",
+      "email": "luka@hotmail.com"
+    },
+    {
+      "id": "c93c",
+      "name": "Luka",
+      "email": "luka@hotmail.com"
+    },
+    {
+      "id": "327e",
+      "name": "Luka",
+      "email": "luka@hotmail.com"
+    },
+    {
+      "id": "477b",
+      "name": "Luka",
+      "email": "luka@hotmail.com"
+    },
+    {
+      "id": "a2ad",
+      "name": "Luka",
+      "email": "luka@hotmail.com"
+    },
+    {
+      "id": "b3b8",
+      "name": "Luka",
+      "email": "luka@hotmail.com"
+    },
+    {
+      "id": "11b3",
+      "name": "Luka",
+      "email": "luka@hotmail.com"
+    },
+    {
+      "id": "66fc",
+      "name": "Luka",
+      "email": "luka@hotmail.com"
+    },
+    {
+      "id": "14ee",
+      "name": "Luka",
+      "email": "luka@hotmail.com"
+    },
+    {
+      "id": "c373",
+      "name": "Luka",
+      "email": "luka@hotmail.com"
+    },
+    {
+      "id": "89d0",
+      "name": "Luka",
+      "email": "luka@hotmail.com"
+    },
+    {
+      "id": "cb04",
+      "name": "Luka",
+      "email": "luka@hotmail.com"
+    },
+    {
+      "id": "727a",
+      "name": "Luka",
+      "email": "luka@hotmail.com"
+    },
+    {
+      "id": "bf17",
+      "name": "Luka",
+      "email": "luka@hotmail.com"
+    },
+    {
+      "id": "fd4f",
+      "name": "Luka",
+      "email": "luka@hotmail.com"
+    },
+    {
+      "id": "8afe",
+      "name": "Luka",
+      "email": "luka@hotmail.com"
+    },
+    {
+      "id": "b431",
+      "name": "Luka",
+      "email": "luka@hotmail.com"
+    },
+    {
+      "id": "03ae",
+      "name": "Luka",
+      "email": "luka@hotmail.com"
+    },
+    {
+      "id": "a07d",
+      "name": "Luka",
+      "email": "luka@hotmail.com"
+    },
+    {
+      "id": "38ea",
+      "name": "Luka",
+      "email": "luka@hotmail.com"
+    },
+    {
+      "id": "a4f6",
+      "name": "Luka",
+      "email": "luka@hotmail.com"
+    },
+    {
+      "id": "73ed",
+      "name": "Luka",
+      "email": "luka@hotmail.com"
+    },
+    {
+      "id": "2f86",
+      "name": "Luka",
+      "email": "luka@hotmail.com"
+    },
+    {
+      "id": "8371",
+      "name": "Luka",
+      "email": "luka@hotmail.com"
+    },
+    {
+      "id": "962b",
+      "name": "Luka",
+      "email": "luka@hotmail.com"
+    },
+    {
+      "id": "d5ea",
+      "name": "Luka",
+      "email": "luka@hotmail.com"
+    },
+    {
+      "id": "bd37",
+      "name": "Luka",
+      "email": "luka@hotmail.com"
+    },
+    {
+      "id": "98b4",
+      "name": "Luka",
+      "email": "luka@hotmail.com"
+    },
+    {
+      "id": "d8f8",
+      "name": "Luka",
+      "email": "luka@hotmail.com"
+    },
+    {
+      "id": "ec9f",
+      "name": "Luka",
+      "email": "luka@hotmail.com"
+    },
+    {
+      "id": "b2f6",
+      "name": "Luka",
+      "email": "luka@hotmail.com"
+    },
+    {
+      "id": "a4eb",
+      "name": "Luka",
+      "email": "luka@hotmail.com"
+    },
+    {
+      "id": "4c12",
+      "name": "Luka",
+      "email": "luka@hotmail.com"
+    },
+    {
+      "id": "ccad",
+      "name": "Luka",
+      "email": "luka@hotmail.com"
+    },
+    {
+      "id": "81e7",
+      "name": "Luka",
+      "email": "luka@hotmail.com"
+    },
+    {
+      "id": "46f6",
+      "name": "Luka",
+      "email": "luka@hotmail.com"
+    },
+    {
+      "id": "ac9c",
+      "name": "Luka",
+      "email": "luka@hotmail.com"
+    }
+  ],
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": "9000"
+    }
+  ]
 }
